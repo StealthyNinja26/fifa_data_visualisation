@@ -15,7 +15,7 @@ The dataset used is derived from FIFA player statistics, typically including:
 - Physical attributes (e.g., height, weight)
 - Financial data (value, wage)
 
-> **Note:** This notebook assumes the dataset is available in the working directory (e.g., `fifa.csv`). Adjust paths accordingly if needed.
+> **Note:** This notebook assumes the dataset is available in the working directory (`data.csv`). Adjust paths accordingly if needed.
 
 ## 🧰 Libraries Used
 
@@ -73,9 +73,9 @@ To run this notebook locally:
    ```
 4. Run all cells sequentially to generate outputs and visualizations.
 
-> **Note**: Make sure the data file (e.g., `fifa.csv`) is in the same directory as the notebook.
+> **Note**: Make sure the data file (`data.csv`) is in the same directory as the notebook.
 
 ## 🙋 Author & Acknowledgments
 
-This notebook was developed by [Your Name] for data visualization practice and exploratory analysis.  
-Special thanks to the creators of the FIFA dataset and the open-source community for providing powerful visualization tools.
+This notebook was developed by Praveen Shanmuga Sundaram for data visualization practice and exploratory analysis.  
+Special thanks to the creators of the [FIFA dataset](https://www.kaggle.com/datasets/devansodariya/football-fifa-2019-dataset) and the open-source community at Kaggle for providing the dataset.
