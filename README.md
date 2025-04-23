@@ -74,8 +74,3 @@ To run this notebook locally:
 4. Run all cells sequentially to generate outputs and visualizations.
 
 > **Note**: Make sure the data file (`data.csv`) is in the same directory as the notebook.
-
-## 🙋 Author & Acknowledgments
-
-This notebook was developed by Praveen Shanmuga Sundaram for data visualization practice and exploratory analysis.  
-Special thanks to the creators of the [FIFA dataset](https://www.kaggle.com/datasets/devansodariya/football-fifa-2019-dataset) and the open-source community at Kaggle for providing the dataset.
